@@ -34,7 +34,7 @@
               uniqueId: 'xEditor'
             },
             element: '',
-            placeholder: '欢迎使用Vue-Editor！',
+            placeholder: '欢迎使用Vue-Markdown-Editor！',
             spellChecker: false,
             toolbar: [
               'bold',
