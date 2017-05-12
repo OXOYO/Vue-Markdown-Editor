@@ -1,8 +1,8 @@
 # vue-markdown-editor [![Version](https://img.shields.io/npm/v/vue2-markdown-editor.svg)](https://www.npmjs.com/package/vue2-markdown-editor) [![Downloads](https://img.shields.io/npm/dt/vue2-markdown-editor.svg)](https://www.npmjs.com/package/vue2-markdown-editor)
 
-> 基于 SimpleMDE && Vue2 封装的 Markdown 编辑器组件。
+> The Markdown editor component encapsulated by SimpleMDE & vue2
 
-## 启动
+## Start
 
 ``` bash
 # install dependencies
@@ -15,7 +15,7 @@ npm run dev
 npm run build
 ```
 
-## 资料
+## Documentation
 
 [SimpleMDE](https://github.com/NextStepWebs/simplemde-markdown-editor)
 [Vue](https://github.com/vuejs/vue)
