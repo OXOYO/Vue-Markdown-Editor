@@ -1,6 +1,10 @@
-# vue-markdown-editor [![Version](https://img.shields.io/npm/v/vue2-markdown-editor.svg)](https://www.npmjs.com/package/vue2-markdown-editor) [![Downloads](https://img.shields.io/npm/dt/vue2-markdown-editor.svg)](https://www.npmjs.com/package/vue2-markdown-editor)
+# vue-markdown-editor 
+The Markdown editor component encapsulated by SimpleMDE & vue2
 
-> The Markdown editor component encapsulated by SimpleMDE & vue2
+[![Version](https://img.shields.io/npm/v/vue2-markdown-editor.svg)](https://www.npmjs.com/package/vue2-markdown-editor)
+[![License](https://img.shields.io/npm/l/vue2-markdown-editor.svg)](https://www.npmjs.com/package/vue2-markdown-editor)
+[![NPM downloads](http://img.shields.io/npm/dm/vue2-markdown-editor.svg)](https://npmjs.org/package/vue2-markdown-editor)
+[![Downloads](https://img.shields.io/npm/dt/vue2-markdown-editor.svg)](https://www.npmjs.com/package/vue2-markdown-editor)
 
 ## Start
 
